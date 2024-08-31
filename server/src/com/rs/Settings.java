@@ -9,7 +9,7 @@ public final class Settings {
 	 * General client and server settings.
 	 */
 	public static final String SERVER_NAME = "RuneScape";
-	public static final String HOST = "192.168.1.144";
+	public static final String HOST = "127.0.0.1";//192.168.1.144
 	public static final int PORT_ID = 43446;
 	public static final String LASTEST_UPDATE = "<col=7E2217>Lastest Update: Slaughter Fields (Dangerous Zone)";
 	public static final String CACHE_PATH = "data/cache/";
